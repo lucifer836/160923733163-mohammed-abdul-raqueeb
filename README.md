@@ -50,8 +50,3 @@ Place these images in src/main/resources/static/images/:
 | PUT       | put.png    |
 | DELETE    | delete.png |
 
-<img src="/images/get.png" alt="Get Operation">
-<img src="/images/post.png" alt="Post Operation">
-<img src="/images/put.png" alt="Put Operation">
-<img src="/images/delete.png" alt="Delete Operation">
-
